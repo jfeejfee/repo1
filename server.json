@@ -1,1 +1,41 @@
 
+{
+ "Version": "",
+ "ReleaseNotes": "",
+ "ReleaseNotes1": "",
+ "Servers": [
+  {
+   "Name": "thai1",
+   "FLAG": "th.png",
+   "ServerIP": "45.136.239.172",
+   "ServerPort": "22",
+   "SSLPort": "443",
+   "ProxyPort": "8080",
+   "ServerUser": "",
+   "ServerPass": "",
+   "sInfo": "",
+   "Slowchave": "",
+   "Nameserver": "",
+   "servermessage": "",
+   "Sfrep": ""
+  }
+ ],
+ "Networks": [
+  {
+   "Name": "truemove",
+   "Payload": "",
+   "SNI": "m.facebook.com",
+   "pInfo": "",
+   "Slowdns": "",
+   "WebProxy": "",
+   "WebPort": "",
+   "isHatok": false,
+   "isSSL": true,
+   "isPayloadSSL": false,
+   "isInject": false,
+   "isDirect": false,
+   "isSlow": false,
+   "isWeb": false
+  }
+ ]
+}
