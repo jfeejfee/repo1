@@ -1,5 +1,5 @@
 {
-    "version": 1.1,
+    "version": 1.2,
     "message": "
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 📝พบไฟล์ใหม่ 23/01/2024
@@ -13,10 +13,10 @@
 ไฟล์เซิฟ ประเทศ สิงค์โปร์ 4 เซิฟ",
     "data": [
     {
-    "name": "TH1-TRUE-NOPRO",
+    "name": "Th1-TRUE-NOPRO",
     "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpmZWV2aXA5MjkuYmVsYS5teS5pZCIsImlkIjoiMTI3YjFmOTYtYTU3YS00NmQ2LWYyZGUtOThlZjY1ZmU2OTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJKRkVFLVZJUC1USC1UUlVFLVRIMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-    "name": "TH2-TRUE-NOPRO",
+    "name": "Th2-TRUE-NOPRO",
     "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpmZWV2aXA5MjkuYmVsYS5teS5pZCIsImlkIjoiMTI3YjFmOTYtYTU3YS00NmQ2LWYyZGUtOThlZjY1ZmU2OTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJKRkVFLVZJUC1USC1UUlVFLVRIMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }
     ]
