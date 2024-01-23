@@ -1,11 +1,23 @@
 {
-    "version": 1.1,
-    "message": "
-ไฟล์เซิฟ ประเทศ ไทย 6 เซิฟ
-ไฟล์เซิฟ ประเทศ สิงค์โปร์ 4 เซิฟ",
+    "version": 1.0,
+    "message": "รายการอัปเดตServer
+
+ปรับเปลี่ยนPortใหม่
+
+แก้ไข Thailand AIS 10 Server
+
+แก้ไขThailand DTAC 10 Server
+
+แก้ไข Thailand TRUE 10 Server
+
+เซิร์ฟเวอร์จะรีบูตทุกวันตามเวลานี้
+
+--> (เวลา 00:00 น.)
+
+--> (เวลา 03:30 น.)",
     "data": [
     {
-    "name": "Thailand-1 DTAC NOPRO",
+    "name": "Thailand",
     "content": "vmess://eyAidiI6ICIyIiwgInBzIjogIlRSVUVWSVAxIiwgImFkZCI6ICIxLnYycmF5LmJvb20uYmVsYS5teS5pZCIsICJwb3J0IjogIjgwIiwgImlkIjogIjQzNmQ1NmFjLTVmYTEtNDU5OS05MzBhLTNmZWZkOTRlMWUxMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInRscyI6ICJub25lIiB9Cg"
     }
     ]
