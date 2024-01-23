@@ -1,5 +1,5 @@
 {
-    "version": 1.1,
+    "version": 1.2,
     "message": "⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 📝พบไฟล์ใหม่ 23/01/2024
    TRUE & DTAC
@@ -38,6 +38,15 @@
     },{
     "name": "Thailand-3 TRUE SOCIAL",
     "content": "vmess://eyJhZGQiOiIxYm9vbS56LnZwbi5tYXNhLm15LmlkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjcxZTRkZGIxLTg4NzktNDJiNC05MmMzLWI1ZmE2MjVmNWZkYiIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IlRSVUVWSVBTT0NJQUwzIiwic2N5IjoiYXV0byIsInNuaSI6Im0uZmFjZWJvb2suY29tIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0="
-    }  
+    },{
+    "name": "Thailand-1 AIS PLAY",
+    "content": "vmess://eyJhZGQiOiIxLnYycmF5LmJvb20uYmVsYS5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjQzNmQ1NmFjLTVmYTEtNDU5OS05MzBhLTNmZWZkOTRlMWUxMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQUlTVklQMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },{
+    "name": "Thailand-2 AIS PLAY",
+    "content": "vmess://eyJhZGQiOiJtb3M3ODkuYmVsYS5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjBiZjExOGM0LTY2ZTAtNDYwMi04YTI2LWVjYmNiZjQ4YTJlYiIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmF5dndzIiwicG9ydCI6IjgwIiwicHMiOiJBSVNWSVAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },{
+    "name": "Thailand-3 AIS PLAY",
+    "content": "vmess://eyJhZGQiOiIxYm9vbS56LnZwbi5tYXNhLm15LmlkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNzFlNGRkYjEtODg3OS00MmI0LTkyYzMtYjVmYTYyNWY1ZmRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3doYXRldmVyL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJBSVNWSVAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    }
     ]
     }
