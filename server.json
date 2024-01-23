@@ -1,1 +1,13 @@
-
+{
+    "version": 1.0,
+    "message": "เขียนรายละเอียด",
+    "data": [
+    {
+    "name": "ตั้งชื่อเซิร์ฟเวอร์",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpmZWV2aXA5MjkuYmVsYS5teS5pZCIsImlkIjoiMTI3YjFmOTYtYTU3YS00NmQ2LWYyZGUtOThlZjY1ZmU2OTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJKRkVFLVZJUC1USC1UUlVFLVRIMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },{
+    "name": "TH-1TRUE-NOPRO",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpmZWV2aXA5MjkuYmVsYS5teS5pZCIsImlkIjoiMTI3YjFmOTYtYTU3YS00NmQ2LWYyZGUtOThlZjY1ZmU2OTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJKRkVFLVZJUC1USC1UUlVFLVRIMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    }
+    ]
+}
