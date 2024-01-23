@@ -1,23 +1,10 @@
 {
-    "version": 1.4,
-    "message": "
-⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-📝พบไฟล์ใหม่ 23/01/2024
-   TRUE & DTAC
-📶 DTAC NOPRO
-📶 TRUE SOCIAL
-📶 TRUE YOUTUBE
-📶 TRUE NOPRPO
-
-ไฟล์เซิฟ ประเทศ ไทย 6 เซิฟ
-ไฟล์เซิฟ ประเทศ สิงค์โปร์ 4 เซิฟ",
+    "version": 1.0,
+    "message": "TOP",
     "data": [
     {
-    "name": "Thailand-TRUE1-NOPRO",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpmZWV2aXA5MjkuYmVsYS5teS5pZCIsImlkIjoiMTI3YjFmOTYtYTU3YS00NmQ2LWYyZGUtOThlZjY1ZmU2OTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJKRkVFLVZJUC1USC1UUlVFLVRIMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-TRUE2-NOPRO",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpmZWV2aXA5MjkuYmVsYS5teS5pZCIsImlkIjoiMTI3YjFmOTYtYTU3YS00NmQ2LWYyZGUtOThlZjY1ZmU2OTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJKRkVFLVZJUC1USC1UUlVFLVRIMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "name": "Thailand-1 DTAC NOPRO",
+    "content": "vmess://eyAidiI6ICIyIiwgInBzIjogIlRSVUVWSVAxIiwgImFkZCI6ICIxLnYycmF5LmJvb20uYmVsYS5teS5pZCIsICJwb3J0IjogIjgwIiwgImlkIjogIjQzNmQ1NmFjLTVmYTEtNDU5OS05MzBhLTNmZWZkOTRlMWUxMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInRscyI6ICJub25lIiB9Cg"
     }
     ]
 }
