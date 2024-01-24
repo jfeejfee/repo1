@@ -1,5 +1,5 @@
 {
-    "version": 1.2,
+    "version": 1.1,
     "message": "⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 📝พบไฟล์ใหม่ 23/01/2024
    TRUE & DTAC
@@ -30,14 +30,14 @@
     "name": "Thailand-3 DTAC NOPRO",
     "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6ZmZmZjphMjlmOjg2MmEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjFib29tLnoudnBuLm1hc2EubXkuaWQiLCJpZCI6IjcxZTRkZGIxLTg4NzktNDJiNC05MmMzLWI1ZmE2MjVmNWZkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93aGF0ZXZlci92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiRFRBQ1ZJUDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },{
-    "name": "Thailand-1 TRUE SOCIAL",
-    "content": "vmess://eyJhZGQiOiIxLnYycmF5LmJvb20uYmVsYS5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MzZkNTZhYy01ZmExLTQ1OTktOTMwYS0zZmVmZDk0ZTFlMTMiLCJuZXQiOiJncnBjIiwicGF0aCI6InZtZXNzLWdycGMiLCJwb3J0IjoiNDQzIiwicHMiOiJUUlVFVklQU09DSUFMMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJtLmZhY2Vib29rLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9"
+    "name": "Singapore-1 TRUE NOPRO",
+    "content": "vless://11513aa4-d77e-4c2b-8116-81b5c82501e3@topping.truemoveh.com:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=1.v2ray.boomvpn.bela.my.id&type=ws#TRUE1SG"
     },{
-    "name": "Thailand-2 TRUE SOCIAL",
-    "content": "vmess://eyJhZGQiOiJtb3M3ODkuYmVsYS5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwYmYxMThjNC02NmUwLTQ2MDItOGEyNi1lY2JjYmY0OGEyZWIiLCJuZXQiOiJncnBjIiwicGF0aCI6InZtZXNzLWdycGMiLCJwb3J0IjoiNDQzIiwicHMiOiJUUlVFVklQU09DSUFMMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJtLmZhY2Vib29rLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9"
+    "name": "Singapore-1 DTAC NOPRO",
+    "content": "vless://11513aa4-d77e-4c2b-8116-81b5c82501e3@[0:0:0:0:0:ffff:a29f:862a]:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=1.v2ray.boomvpn.bela.my.id&type=ws#DTAC1SG"
     },{
-    "name": "Thailand-3 TRUE SOCIAL",
-    "content": "vmess://eyJhZGQiOiIxYm9vbS56LnZwbi5tYXNhLm15LmlkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjcxZTRkZGIxLTg4NzktNDJiNC05MmMzLWI1ZmE2MjVmNWZkYiIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IlRSVUVWSVBTT0NJQUwzIiwic2N5IjoiYXV0byIsInNuaSI6Im0uZmFjZWJvb2suY29tIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0="
+    "name": "Singapore-1 AIS PLAT",
+    "content": "vless://11513aa4-d77e-4c2b-8116-81b5c82501e3@1.v2ray.boomvpn.bela.my.id:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS1SG"
     },{
     "name": "Thailand-1 AIS PLAY",
     "content": "vmess://eyJhZGQiOiIxLnYycmF5LmJvb20uYmVsYS5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjQzNmQ1NmFjLTVmYTEtNDU5OS05MzBhLTNmZWZkOTRlMWUxMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQUlTVklQMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
@@ -47,6 +47,15 @@
     },{
     "name": "Thailand-3 AIS PLAY",
     "content": "vmess://eyJhZGQiOiIxYm9vbS56LnZwbi5tYXNhLm15LmlkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNzFlNGRkYjEtODg3OS00MmI0LTkyYzMtYjVmYTYyNWY1ZmRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3doYXRldmVyL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJBSVNWSVAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },{
+    "name": "Singapore-2 TRUE NOPRO",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNnLnNzaC1zc2wuY2FiIiwiaWQiOiIzNGU3YzNlMi0yNzcxLTQ3NzktOTJhNS02MGE1OTA1NmI4NDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZyZWV0cnVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },{
+    "name": "Singapore-2 DTAC NOPRO",
+    "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6ZmZmZjphMjlmOjg2MmEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNnLnNzaC1zc2wuY2FiIiwiaWQiOiIzNGU3YzNlMi0yNzcxLTQ3NzktOTJhNS02MGE1OTA1NmI4NDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZyZWVkdGFjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },{
+    "name": "Singapore-2 AIS PLAT",
+    "content": "vmess://eyJhZGQiOiJzZy5zc2gtc3NsLmNhYiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjM0ZTdjM2UyLTI3NzEtNDc3OS05MmE1LTYwYTU5MDU2Yjg0OSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiZnJlZWFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }
     ]
     }
