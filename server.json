@@ -1,61 +1,63 @@
 {
-    "version": 1.6,
+    "version": 1.7,
     "message": "⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
 📝พบไฟล์ใหม่ 23/01/2024
-   TRUE & DTAC
+
+TRUE & DTAC
+
 📶 DTAC NOPRO
+
 📶 TRUE SOCIAL
+
 📶 TRUE YOUTUBE
+
 📶 TRUE NOPRPO
 
+
 ไฟล์เซิฟ ประเทศ ไทย 6 เซิฟ
-ไฟล์เซิฟ ประเทศ สิงค์โปร์ 4 เซิฟ",
+เพิ่ม เซิฟเกม 2 เซิฟ
+เซิฟแรงๆ สายเกมถูกแน่นอนครับ
+
+
+",
     "data": [
     {
     "name": "Thailand-1 TRUE NOPRO",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjEudjJyYXkuYm9vbS5iZWxhLm15LmlkIiwiaWQiOiI0MzZkNTZhYy01ZmExLTQ1OTktOTMwYS0zZmVmZDk0ZTFlMTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUVWSVAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "content": "vless://870cc242-a3e5-433d-bb5d-c6cdce744b07@topping.truemoveh.com:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=1.v2ray.boomvpn.bela.my.id&type=ws#BOOM-VPN+TRUE+1"
     },{
     "name": "Thailand-2 TRUE NOPRO",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1vczc4OS5iZWxhLm15LmlkIiwiaWQiOiIwYmYxMThjNC02NmUwLTQ2MDItOGEyNi1lY2JjYmY0OGEyZWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI4MCIsInBzIjoiVFJVRVZJUDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "content": "vless://1a6cc9fc-2b45-4666-8b49-5c315ad6318d@topping.truemoveh.com:8080?path=%2F&security=none&encryption=none&host=443.v2ray.boom1.bela.my.id&type=ws#BOOM-VPN+TRUE+2"
     },{
-    "name": "Thailand-3 TRUE NOPRO",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjFib29tLnoudnBuLm1hc2EubXkuaWQiLCJpZCI6IjcxZTRkZGIxLTg4NzktNDJiNC05MmMzLWI1ZmE2MjVmNWZkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93aGF0ZXZlci92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiVFJVRVZJUDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "name": "Thailand-3 TRUE NOPRO สายเกม",
+    "content": "vless://e5aa8aac-b464-4174-cfe6-7d0022ed7043@topping.truemoveh.com:8080?path=%2F&security=none&encryption=none&host=443.v2ray.boom.bela.my.id&type=ws#BOOM-VPN+TRUE+3"
+    },,{
+    "name": "Thailand-4 TRUE NOPRO สายเกม",
+    "content": "vless://4454c7d5-21d8-4a83-95bd-31cbc8729b63@topping.truemoveh.com:80?path=%2Fvless&security=none&encryption=none&host=jfeeviptcat123.bela.my.id&type=ws#BOOM-VPN+TRUE+4"
     },{
     "name": "Thailand-1 DTAC NOPRO",
-    "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6ZmZmZjphMjlmOjg2MmEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjEudjJyYXkuYm9vbS5iZWxhLm15LmlkIiwiaWQiOiI0MzZkNTZhYy01ZmExLTQ1OTktOTMwYS0zZmVmZDk0ZTFlMTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUNWSVAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "content": "vless://e5aa8aac-b464-4174-cfe6-7d0022ed7043@[0:0:0:0:0:ffff:a29f:862a]:8080?path=%2F&security=none&encryption=none&host=443.v2ray.boom.bela.my.id&type=ws#BOOM-VPN+DTAC+1"
     },{
     "name": "Thailand-2 DTAC NOPRO",
-    "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6ZmZmZjphMjlmOjg2MmEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1vczc4OS5iZWxhLm15LmlkIiwiaWQiOiIwYmYxMThjNC02NmUwLTQ2MDItOGEyNi1lY2JjYmY0OGEyZWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI4MCIsInBzIjoiRFRBQ1ZJUDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "content": "vless://1a6cc9fc-2b45-4666-8b49-5c315ad6318d@[0:0:0:0:0:ffff:a29f:862a]:8080?path=%2F&security=none&encryption=none&host=443.v2ray.boom1.bela.my.id&type=ws#BOOM-VPN+DTAC+2"
     },{
-    "name": "Thailand-3 DTAC NOPRO",
-    "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6ZmZmZjphMjlmOjg2MmEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjFib29tLnoudnBuLm1hc2EubXkuaWQiLCJpZCI6IjcxZTRkZGIxLTg4NzktNDJiNC05MmMzLWI1ZmE2MjVmNWZkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93aGF0ZXZlci92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiRFRBQ1ZJUDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "name": "Thailand-3 DTAC NOPRO สายเกม",
+    "content": "vless://870cc242-a3e5-433d-bb5d-c6cdce744b07@[0:0:0:0:0:ffff:a29f:862a]:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=1.v2ray.boomvpn.bela.my.id&type=ws#BOOM-VPN+DTAC+3"
     },{
-    "name": "Thailand-4 TRUE NOPRO",
-    "content": "vless://11513aa4-d77e-4c2b-8116-81b5c82501e3@topping.truemoveh.com:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=1.v2ray.boomvpn.bela.my.id&type=ws#TRUE1SG"
-    },{
-    "name": "Thailand-4 DTAC NOPRO",
-    "content": "vless://11513aa4-d77e-4c2b-8116-81b5c82501e3@[0:0:0:0:0:ffff:a29f:862a]:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=1.v2ray.boomvpn.bela.my.id&type=ws#DTAC1SG"
-    },{
-    "name": "Thailand-4 AIS PLAT",
-    "content": "vless://11513aa4-d77e-4c2b-8116-81b5c82501e3@1.v2ray.boomvpn.bela.my.id:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS1SG"
+    "name": "Thailand-4 DTAC NOPRO สายเกม",
+    "content": "vless://4454c7d5-21d8-4a83-95bd-31cbc8729b63@[0:0:0:0:0:ffff:a29f:862a]:80?path=%2Fvless&security=none&encryption=none&host=jfeeviptcat123.bela.my.id&type=ws#BOOM-VPN+DTAC+4"
     },{
     "name": "Thailand-1 AIS PLAY",
-    "content": "vmess://eyJhZGQiOiIxLnYycmF5LmJvb20uYmVsYS5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjQzNmQ1NmFjLTVmYTEtNDU5OS05MzBhLTNmZWZkOTRlMWUxMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQUlTVklQMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "content": "vless://e5aa8aac-b464-4174-cfe6-7d0022ed7043@443.v2ray.boom.bela.my.id:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOM-VPN+AIS+1"
     },{
     "name": "Thailand-2 AIS PLAY",
-    "content": "vmess://eyJhZGQiOiJtb3M3ODkuYmVsYS5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjBiZjExOGM0LTY2ZTAtNDYwMi04YTI2LWVjYmNiZjQ4YTJlYiIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmF5dndzIiwicG9ydCI6IjgwIiwicHMiOiJBSVNWSVAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "content": "vless://1a6cc9fc-2b45-4666-8b49-5c315ad6318d@443.v2ray.boom1.bela.my.id:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOM-VPN+AIS+2"
     },{
-    "name": "Thailand-3 AIS PLAY",
-    "content": "vmess://eyJhZGQiOiIxYm9vbS56LnZwbi5tYXNhLm15LmlkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNzFlNGRkYjEtODg3OS00MmI0LTkyYzMtYjVmYTYyNWY1ZmRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3doYXRldmVyL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJBSVNWSVAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "name": "Thailand-3 AIS PLAY สายเกม",
+    "content": "vless://870cc242-a3e5-433d-bb5d-c6cdce744b07@1.v2ray.boomvpn.bela.my.id:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOM-VPN+AIS+3"
     },{
-    "name": "Thailand-5 TRUE NOPRO",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNnLnNzaC1zc2wuY2FiIiwiaWQiOiIzNGU3YzNlMi0yNzcxLTQ3NzktOTJhNS02MGE1OTA1NmI4NDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZyZWV0cnVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
-    "name": "Thailand-5 DTAC NOPRO",
-    "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6ZmZmZjphMjlmOjg2MmEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNnLnNzaC1zc2wuY2FiIiwiaWQiOiIzNGU3YzNlMi0yNzcxLTQ3NzktOTJhNS02MGE1OTA1NmI4NDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZyZWVkdGFjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
-    "name": "Thailand-5 AIS PLAT",
-    "content": "vmess://eyJhZGQiOiJzZy5zc2gtc3NsLmNhYiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjM0ZTdjM2UyLTI3NzEtNDc3OS05MmE1LTYwYTU5MDU2Yjg0OSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiZnJlZWFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "name": "Thailand-4 AIS PLAT สายเกม",
+    "content": "vless://4454c7d5-21d8-4a83-95bd-31cbc8729b63@jfeeviptcat123.bela.my.id:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOM-VPN+AIS+4"
     }
     ]
     }
