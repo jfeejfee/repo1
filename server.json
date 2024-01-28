@@ -1,63 +1,70 @@
 {
-    "version": 1.9,
-    "message": "⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-รายการ อัพเดทไฟล์ 1.9
-📝พบไฟล์ใหม่ 23/01/2024
-
-TRUE & DTAC
-
-📶 DTAC NOPRO
-
-📶 TRUE SOCIAL
-
-📶 TRUE YOUTUBE
-
-📶 TRUE NOPRPO
-
-
-ไฟล์เซิฟ ประเทศ ไทย 6 เซิฟ
-เพิ่ม เซิฟเกม 2 เซิฟ
-เซิฟแรงๆ สายเกมถูกแน่นอน
-
-
-",
+    "version": 2.0,
+    "message": "
+____________________________________
+อัพเดทไฟล์ 2.0
+____________________________________
+🚀  443 ᴠᴘɴ ᴠ2ʀᴀʏ ᴜsᴇʀ เล่นเน็ต
+✅ รองรับการใช้งาน ᴀɴᴅʀᴏɪᴅ 
+✅ มีให้บริการแค่ ᴛʀᴜᴇ ᴅᴛᴀᴄ ᴀɪs
+____________________________________
+       รายการเซิร์ฟเวอร์
+ 🇹🇭 • ᴛʜ ᴀɪs ᴘʟᴀʏ 4 เซิฟ
+ 🇹🇭 • ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ 4 เซิฟ
+ 🇹🇭 • ᴛʜ ᴅᴛᴀᴄ ɴᴏᴘʀᴏ 4 เซิฟ
+✅ สำหรับใช้งานทั่วไป ดูหนัง ฟังเพลง
+🚀 สายเกมส์ สบายปิงน้อย
+____________________________________
+☎️ ติดต่อแอดมิน
+  • ғʙ : เจฟ.เจฟ
+  • ʟɪɴᴇ : ɢᴏᴊ5516
+____________________________________",
     "data": [
     {
-    "name": "Thailand-1 TRUE NOPRO",
+    "name": "Thailand 1 TRUE NOPRO ใช้งานทั่วไป",
     "content": "vless://870cc242-a3e5-433d-bb5d-c6cdce744b07@topping.truemoveh.com:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=1.v2ray.boomvpn.bela.my.id&type=ws#BOOM-VPN+TRUE+1"
     },{
-    "name": "Thailand-2 TRUE NOPRO",
+    "name": "Thailand 2 TRUE NOPRO ใช้งานทั่วไป",
     "content": "vless://1a6cc9fc-2b45-4666-8b49-5c315ad6318d@topping.truemoveh.com:8080?path=%2F&security=none&encryption=none&host=443.v2ray.boom1.bela.my.id&type=ws#BOOM-VPN+TRUE+2"
     },{
-    "name": "Thailand-3 TRUE NOPRO สายเกม",
+    "name": "Thailand 3 TRUE NOPRO ใช้งานทั่วไป",
     "content": "vless://e5aa8aac-b464-4174-cfe6-7d0022ed7043@topping.truemoveh.com:8080?path=%2F&security=none&encryption=none&host=443.v2ray.boom.bela.my.id&type=ws#BOOM-VPN+TRUE+3"
     },{
-    "name": "Thailand-4 TRUE NOPRO สายเกม",
+    "name": "Thailand 4 TRUE NOPRO สำหรับสายเกม",
     "content": "vless://4454c7d5-21d8-4a83-95bd-31cbc8729b63@topping.truemoveh.com:80?path=%2Fvless&security=none&encryption=none&host=jfeeviptcat123.bela.my.id&type=ws#BOOM-VPN+TRUE+4"
+    },,{
+    "name": "Thailand 5 TRUE NOPRO สำหรับสายเกม",
+    "content": "vless://72c5dbe8-cf10-4efb-a1e8-76c276348cda@topping.truemoveh.com:80?path=%2Fvless&security=none&encryption=none&host=th2.boomzvpn.tech&type=ws#BOOM-VPN+TRUE+5"
     },{
-    "name": "Thailand-1 DTAC NOPRO",
+    "name": "Thailand 1 DTAC NOPRO ใช้งานทั่วไป",
     "content": "vless://e5aa8aac-b464-4174-cfe6-7d0022ed7043@[0:0:0:0:0:ffff:a29f:862a]:8080?path=%2F&security=none&encryption=none&host=443.v2ray.boom.bela.my.id&type=ws#BOOM-VPN+DTAC+1"
     },{
-    "name": "Thailand-2 DTAC NOPRO",
+    "name": "Thailand 2 DTAC NOPRO ใช้งานทั่วไป",
     "content": "vless://1a6cc9fc-2b45-4666-8b49-5c315ad6318d@[0:0:0:0:0:ffff:a29f:862a]:8080?path=%2F&security=none&encryption=none&host=443.v2ray.boom1.bela.my.id&type=ws#BOOM-VPN+DTAC+2"
     },{
-    "name": "Thailand-3 DTAC NOPRO สายเกม",
+    "name": "Thailand 3 DTAC NOPRO ใช้งานทั่วไป",
     "content": "vless://870cc242-a3e5-433d-bb5d-c6cdce744b07@[0:0:0:0:0:ffff:a29f:862a]:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=1.v2ray.boomvpn.bela.my.id&type=ws#BOOM-VPN+DTAC+3"
     },{
-    "name": "Thailand-4 DTAC NOPRO สายเกม",
+    "name": "Thailand 4 DTAC NOPRO สำหรับสายเกม",
     "content": "vless://4454c7d5-21d8-4a83-95bd-31cbc8729b63@[0:0:0:0:0:ffff:a29f:862a]:80?path=%2Fvless&security=none&encryption=none&host=jfeeviptcat123.bela.my.id&type=ws#BOOM-VPN+DTAC+4"
     },{
-    "name": "Thailand-1 AIS PLAY",
+    "name": "Thailand 5 DTAC NOPRO สำหรับสายเกม",
+    "content": "vless://72c5dbe8-cf10-4efb-a1e8-76c276348cda@[0:0:0:0:0:ffff:a29f:862a]:80?path=%2Fvless&security=none&encryption=none&host=th2.boomzvpn.tech&type=ws#BOOM-VPN+DTAC+5"
+    },{
+    "name": "Thailand 1 AIS PLAY ใช้งานทั่วไป",
     "content": "vless://e5aa8aac-b464-4174-cfe6-7d0022ed7043@443.v2ray.boom.bela.my.id:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOM-VPN+AIS+1"
     },{
-    "name": "Thailand-2 AIS PLAY",
+    "name": "Thailand 2 AIS PLAY ใช้งานทั่วไป",
     "content": "vless://1a6cc9fc-2b45-4666-8b49-5c315ad6318d@443.v2ray.boom1.bela.my.id:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOM-VPN+AIS+2"
     },{
-    "name": "Thailand-3 AIS PLAY สายเกม",
+    "name": "Thailand 3 AIS PLAY ใช้งานทั่วไป",
     "content": "vless://870cc242-a3e5-433d-bb5d-c6cdce744b07@1.v2ray.boomvpn.bela.my.id:80?path=%2Fwhatever%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOM-VPN+AIS+3"
     },{
-    "name": "Thailand-4 AIS PLAT สายเกม",
+    "name": "Thailand 4 AIS PLAT สำหรับสายเกม",
     "content": "vless://4454c7d5-21d8-4a83-95bd-31cbc8729b63@jfeeviptcat123.bela.my.id:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOM-VPN+AIS+4"
+    },{
+    "name": "Thailand 5 AIS PLAT สำหรับสายเกม",
+    "content": "vless://72c5dbe8-cf10-4efb-a1e8-76c276348cda@th2.boomzvpn.tech:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOM-VPN+AIS+5"
     }
     ]
     }
