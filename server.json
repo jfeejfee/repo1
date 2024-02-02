@@ -1,8 +1,8 @@
 {
-    "version": 2.5,
+    "version": 2.6,
     "message": "
 ___________________________
-อัพเดทไฟล์ 2.5 ล่าสุด
+อัพเดทไฟล์ 2.6 ล่าสุด
 ___________________________
        รายการเซิร์ฟเวอร์
  🇹🇭 • ᴛʜ ᴀɪs ᴘʟᴀʏ 8 เซิฟ
@@ -30,7 +30,7 @@ ___________________________
     "content": "vless://cbdc5f06-07dd-48d4-def6-ff087dc0f154@topping.truemoveh.com:80?path=%2F&security=none&encryption=none&host=5the-serverboomvip.bela.my.id&type=ws#SERVERTH5-VIP+TRUE"
     },{
     "name": "Thailand 6 TRUE NOPRO เซิฟเล่นเกม",
-    "content": "vless://670d8998-512f-4e5f-d4b1-1912d6b52d6e@topping.truemoveh.com:8080?path=%2F&security=none&encryption=none&host=6the-serverboomvip.bela.my.id&type=ws#SERVERTH6-VIP+TRUE"
+    "content": "vless://5a1d70a5-cea1-47ac-e80a-d789eb948b13@true.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=thvip1.boomzvpn.cloud&type=ws#SERVERTH6-VIP+TRUE"
     },{
     "name": "Thailand 7 TRUE NOPRO เซิฟ VIP",
     "content": "vless://74f14c1c-4b44-4f46-8b0f-c78e5547fd59@true.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=th1.boomzvpn.cloud&type=ws#443VIP1TRUE"
@@ -54,7 +54,7 @@ ___________________________
     "content": "vless://cbdc5f06-07dd-48d4-def6-ff087dc0f154@[0:0:0:0:0:ffff:a29f:862a]:80?path=%2F&security=none&encryption=none&host=5the-serverboomvip.bela.my.id&type=ws#SERVERTH5-VIP+DTAC"
     },{
     "name": "Thailand 6 DTAC NOPRO เซิฟเล่นเกม",
-    "content": "vless://670d8998-512f-4e5f-d4b1-1912d6b52d6e@topping.truemoveh.com:8080?path=%2F&security=none&encryption=none&host=6the-serverboomvip.bela.my.id&type=ws#SERVERTH6-VIP+TRUE"
+    "content": "vless://5a1d70a5-cea1-47ac-e80a-d789eb948b13@dtac.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=thvip1.boomzvpn.cloud&type=ws#SERVERTH6-VIP+DTAC"
     },{
     "name": "Thailand 7 DTAC NOPRO เซิฟ VIP",
     "content": "vless://74f14c1c-4b44-4f46-8b0f-c78e5547fd59@dtac.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=th1.boomzvpn.cloud&type=ws#443VIP1DTAC"
@@ -78,13 +78,13 @@ ___________________________
     "content": "vless://cbdc5f06-07dd-48d4-def6-ff087dc0f154@103.230.121.12:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#SERVERTH5-VIP+AIS"
     },{
     "name": "Thailand 6 AIS PLAT เซิฟเล่นเกม",
-    "content": "vless://670d8998-512f-4e5f-d4b1-1912d6b52d6e@116.89.252.95:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#SERVERTH6-VIP+AIS"
+    "content": "vless://74f14c1c-4b44-4f46-8b0f-c78e5547fd59@th1.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=www.speedtest.net&type=ws#443VIP1AIS"
     },{
     "name": "Thailand 7 AIS PLAT เซิฟ VIP",
     "content": "vless://74f14c1c-4b44-4f46-8b0f-c78e5547fd59@th1.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=www.speedtest.net&type=ws#443VIP1AIS"
     },{
     "name": "Thailand 8 AIS PLAT เซิฟ VIP",
-    "content": "vless://2f3baf88-641e-472c-a903-ed22145042c6@dtac.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=th2.boomzvpn.cloud&type=ws#443VIP2DTAC"
+    "content": "vless://74f14c1c-4b44-4f46-8b0f-c78e5547fd59@th1.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=www.speedtest.net&type=ws#443VIP1AIS"
     }
     ]
     }
