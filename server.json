@@ -71,10 +71,10 @@ _____________________________
     },{
     "name": "Thailand 5 AIS PLAT VIP",
     "content": "vless://2f527245-1a7d-439b-974d-2c8499ff17e0@the5.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOMTH5+AIS"
-    }{
+    },{
     "name": "Thailand 6 AIS PLAT GAMING",
     "content": "vless://4e7980b9-408d-4054-b39a-2e8387c8bb14@443-vpn.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#JFEE-443-VPN-1+AIS"
-    }{
+    },{
     "name": "Thailand 7 AIS PLAT GAMING",
     "content": "vless://63df18d0-22e6-4c2b-e9b1-0e123d40560f@the6.boomzvpn.cloud:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#BOOMTH-6+AIS"
     }
