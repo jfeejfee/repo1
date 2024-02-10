@@ -1,5 +1,5 @@
 {
-    "version": 5.3,
+    "version": 5.4,
     "message": "
 _____________________________
 อัพเดทไฟล์ 5.3 ล่าสุด แอป 443 VPN
@@ -45,10 +45,10 @@ _____________________________
     "name": "Thailand 3 DTAC NOPRO VIP",
     "content": "vless://ac47e99f-ae50-422e-c06a-398570320d90@dtac.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=the3.boomzvpn.cloud&type=ws#BOOMTH-3+DTAC"
     },{
-    "name": "Thailand 4 DTAC NOPRO GAMING",
+    "name": "Thailand 4 DTAC NOPRO VIP",
     "content": "vless://137e1ffd-a1c9-4138-a4dc-7421e57f6117@dtac.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=the4.boomzvpn.cloud&type=ws#BOOMTH4+DTAC"
     },{
-    "name": "Thailand 5 DTAC NOPRO GAMING",
+    "name": "Thailand 5 DTAC NOPRO VIP",
     "content": "vless://2f527245-1a7d-439b-974d-2c8499ff17e0@dtac.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=the5.boomzvpn.cloud&type=ws#BOOMTH5+DTAC"
     },{
     "name": "Thailand 6 DTAC NOPRO GAMING",
