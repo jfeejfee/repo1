@@ -1,14 +1,16 @@
 {
-    "version": 5.7,
+    "version": 5.8,
     "message": "
 _____________________________
-อัพเดทไฟล์ 5.7 ล่าสุด แอป 443 VPN
+อัพเดทไฟล์ 5.8 ล่าสุด แอป 443 VPN
 _____________________________
        รายการเซิร์ฟเวอร์
+🇸🇬 • เพิ่ม sɢ ᴅᴛᴀᴄ ɴᴏᴘʀᴏ ᴠɪᴘ 1 เซิฟ
 🇹🇭 • เพิ่ม ᴛʜ ᴀɪs ᴘʟᴀʏ ᴠɪᴘ 5 เซิฟ
 🇹🇭 • เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ ᴠɪᴘ 5 เซิฟ
 🇹🇭 • เพิ่ม ᴛʜ ᴅᴛᴀᴄ ɴᴏᴘʀᴏ ᴠɪᴘ 5 เซิฟ
 🇹🇭 • เพิ่ม ᴛʜ ᴛʀᴜᴇ ᴅᴛᴀᴄ ᴀɪs ɢᴀᴍɪɴɢ 2 เซิฟ
+
 _____________________________
 ☎️ ติดต่อแอดมิน
   • ғʙ : เจฟ.เจฟ
@@ -16,67 +18,58 @@ _____________________________
     "data": [
     {
     "name": "Thailand 1 TRUE NOPRO VIP",
-    "content": "vless://7011442e-d664-48a2-bd7f-9d587aa95259@true.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=th1-fast-vpn.boomzvpn.cloud&type=ws#TRUE1"
+    "content": "vless://35178c15-7d5e-4d58-d036-705bed2894d6@true.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=sge-6.boomzvpn.cloud&type=ws#443-VPN-TH-TRUE1"
     },{
     "name": "Thailand 2 TRUE NOPRO VIP",
-    "content": "vless://5d35926d-b079-4c0a-9624-f7d6809343ae@true.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=vip-1.boomzvpn.cloud&type=ws#TRUE2"
+    "content": "vless://95ee4b40-4f7a-47fa-a88a-2187b4770030@true.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=the-2.boomzvpn.cloud&type=ws#443-VPN-TH-TRUE2"
     },{
     "name": "Thailand 3 TRUE NOPRO VIP",
-    "content": "vless://bc2de866-514b-4566-84a6-ba100bb124e3@true.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=the3.jfeevpn.online&type=ws#TRUE_VIP3"
+    "content": "vless://6f517ab2-2ab1-45ee-d338-a352720c4691@true.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=the-3.boomzvpn.cloud&type=ws#443-VPN-TH-TRUE3"
     },{
-    "name": "Thailand 4 TRUE NOPRO VIP",
-    "content": "vless://c1844404-d870-452f-8732-218f43f60716@true.boomzvpn.cloud:80?path=%2Fvless%2F&security=none&encryption=none&host=the4.jfeevpn.online&type=ws#TRUE_VIP4"
+    "name": "Thailand 4 TRUE NOPRO GAMING",
+    "content": "vless://6f5b9523-28b3-474b-9f91-dbd2b72374d9@true.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=the-4.boomzvpn.cloud&type=ws#443-VPN-TH-TRUE4
     },{
-    "name": "Thailand 5 TRUE NOPRO VIP",
-    "content": "vless://63af0ac7-48df-4b2a-bce8-b81004b52e20@true.boomzvpn.cloud:80?path=%2Fvless%2F&security=none&encryption=none&host=the5.jfeevpn.online&type=ws#TRUE_VIP5"
+    "name": "Thailand 5 TRUE NOPRO GAMING",
+    "content": "vless://b7a468cb-acc4-4412-9b97-7b2a03dbbcf3@true.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=the-5.boomzvpn.cloud&type=ws#443-VPN-TH-TRUE5"
     },{
-    "name": "Thailand 6 TRUE NO PRO GAMING",
-    "content": "vless://5d35926d-b079-4c0a-9624-f7d6809343ae@true.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=vip-1.boomzvpn.cloud&type=ws#TRUE"
-    },{
-    "name": "Thailand 7 TRUE NO PRO GAMING",
-    "content": "vless://63af0ac7-48df-4b2a-bce8-b81004b52e20@true.boomzvpn.cloud:80?path=%2Fvless%2F&security=none&encryption=none&host=the5.jfeevpn.online&type=ws#TRUE_VIP5"
+    "name": "Singapore TRUE NO PRO VIP",
+    "content": "vless://06fbcc8b-e244-4c54-b338-5615e9924509@true.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=sge-6.boomzvpn.cloud&type=ws#443-VPN-SG-TRUE6"
     },{
     "name": "Thailand 1 DTAC NOPRO VIP",
-    "content": "vless://7011442e-d664-48a2-bd7f-9d587aa95259@dtac.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=vip.jfeevpn.online&type=ws#DTAC1"
+    "content": "vless://9530cbd4-d4cc-4914-a3ba-83f268c0803d@dtac.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=the-1.boomzvpn.cloud&type=ws#443-VPN-TH-DTAC1"
     },{
     "name": "Thailand 2 DTAC NOPRO VIP",
-    "content": "vless://5d35926d-b079-4c0a-9624-f7d6809343ae@dtac.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=vip-1.boomzvpn.cloud&type=ws#DTAC2"
+    "content": "vless://c94cf0ef-b404-484e-e180-6a24ac3b8465@dtac.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=the-2.boomzvpn.cloud&type=ws#443-VPN-TH-DTAC2"
     },{
     "name": "Thailand 3 DTAC NOPRO VIP",
-    "content": "vless://bc2de866-514b-4566-84a6-ba100bb124e3@dtac.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=the3.jfeevpn.online&type=ws#DTAC_VIP3"
+    "content": "vless://85257a8b-fa25-4244-a103-e3d53ba0a161@dtac.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=the-3.boomzvpn.cloud&type=ws#443-VPN-TH-DTAC3"
     },{
-    "name": "Thailand 4 DTAC NOPRO VIP",
-    "content": "vless://c1844404-d870-452f-8732-218f43f60716@dtac.boomzvpn.cloud:80?path=%2Fvless%2F&security=none&encryption=none&host=the4.jfeevpn.online&type=ws#DTAC_VIP4"
+    "name": "Thailand 4 DTAC NOPRO GAMING",
+    "content": "vless://7a69cc62-5802-4b57-a299-6d76f0afe430@dtac.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=the-4.boomzvpn.cloud&type=ws#443-VPN-TH-DTAC4"
     },{
-    "name": "Thailand 5 DTAC NOPRO VIP",
-    "content": "vless://63af0ac7-48df-4b2a-bce8-b81004b52e20@dtac.boomzvpn.cloud:80?path=%2Fvless%2F&security=none&encryption=none&host=the5.jfeevpn.online&type=ws#DTAC_VIP5"
+    "name": "Thailand 5 DTAC NOPRO GAMING",
+    "content": "vless://f792ecd2-44a3-4a92-e17d-4ab99e752774@dtac.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=the-5.boomzvpn.cloud&type=ws#443-VPN-TH-DTAC5"
     },{
-    "name": "Thailand 6 DTAC NOPRO GAMING",
-    "content": "vless://5d35926d-b079-4c0a-9624-f7d6809343ae@dtac.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=vip-1.boomzvpn.cloud&type=ws#DTAC2"
-    },{
-    "name": "Thailand 7 DTAC NOPRO GAMING",
-    "content": "vless://63af0ac7-48df-4b2a-bce8-b81004b52e20@true.boomzvpn.cloud:80?path=%2Fvless%2F&security=none&encryption=none&host=the5.jfeevpn.online&type=ws#TRUE_VIP5"
+    "name": "Singapore DTAC NOPRO VIP",
+    "content": "vless://581a5f7b-3c7f-4d79-b570-ad56ba190fa8@dtac.boomzvpn.cloud:2052?path=%2F&security=none&encryption=none&host=sge-6.boomzvpn.cloud&type=ws#443-VPN-SG-DTAC6"
     },{
     "name": "Thailand 1 AIS PLAY VIP",
-    "content": "vless://7011442e-d664-48a2-bd7f-9d587aa95259@vip.jfeevpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS1"
+    "content": "vless://9ec459d3-0c58-4912-ba4e-93e8012a0217@141.98.16.102:2052?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#443-VPN-TH-AIS1"
     },{
     "name": "Thailand 2 AIS PLAY VIP",
-    "content": "vless://5d35926d-b079-4c0a-9624-f7d6809343ae@vip-1.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS2"
+    "content": "vless://454136f3-ea5f-44bb-d82b-cb4d4298daf1@141.98.16.60:2052?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#443-VPN-TH-AIS2"
     },{
     "name": "Thailand 3 AIS PLAY VIP",
-    "content": "vless://bc2de866-514b-4566-84a6-ba100bb124e3@the3.jfeevpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS_VIP3"
+    "content": "vless://0b1b1228-bdb1-4a2f-cacd-a10c1e8721b1@45.150.129.102:2052?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#443-VPN-TH-AIS3"
     },{
-    "name": "Thailand 4 AIS PLAT VIP",
-    "content": "vless://c1844404-d870-452f-8732-218f43f60716@the4.jfeevpn.online:80?path=%2Fvless%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS_VIP4"
+    "name": "Thailand 4 AIS PLAT GAMING",
+    "content": "vless://9dcef23f-82db-4537-fc15-788fd581c37e@45.150.129.165:2052?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#443-VPN-TH-AIS4"
     },{
-    "name": "Thailand 5 AIS PLAT VIP",
-    "content": "vless://63af0ac7-48df-4b2a-bce8-b81004b52e20@the5.jfeevpn.online:80?path=%2Fvless%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS_VIP5"
+    "name": "Thailand 5 AIS PLAT GAMING",
+    "content": "vless://a8a33b5b-8199-403d-b9e9-36505d1fbbfc@45.136.239.56:2052?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#443-VPN-TH-AIS5"
     },{
-    "name": "Thailand 6 AIS PLAT GAMING",
-    "content": "vless://5d35926d-b079-4c0a-9624-f7d6809343ae@vip-1.boomzvpn.cloud:80?path=%2Fxrayws&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS2"
-    },{
-    "name": "Thailand 7 AIS PLAT GAMING",
-    "content": "vless://63af0ac7-48df-4b2a-bce8-b81004b52e20@the5.jfeevpn.online:80?path=%2Fvless%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS_VIP5"
+    "name": "Singapore AIS PLAT VIP",
+    "content": "vless://f3ddd435-74c0-4539-8f96-3341f308e3d9@51.79.160.230:2052?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#443-VPN-SG-AIS6"
     }
     ]
     }
