@@ -1,8 +1,9 @@
 {
-    "version": 6.8,
+    "version": 6.9,
     "message": "
 _____________________________
-อัพเดทไฟล์ 6.8 แก้ TRUE แอป 443 VPN
+อัพเดทไฟล์ 6.9 แอป 443 VPN
+    แก้ TRUE NO PRO
 _____________________________
        รายการเซิร์ฟเวอร์
 🇹🇭 • เพิ่ม ᴛʜ ᴀɪs ᴘʟᴀʏ ᴠɪᴘ 5 เซิฟ
@@ -17,22 +18,22 @@ _____________________________
     "data": [
     {
     "name": "Singapore 1 TRUE NOPRO VIP",
-    "content": "vless://c1f3df0b-70fc-464a-9962-6e95532b58c3@104.22.59.207:80?path=%2Fvless%2F&security=none&encryption=none&host=sg1.boomzvpn.cloud&type=ws#6T"
+    "content": "vless://c1f3df0b-70fc-464a-9962-6e95532b58c3@true.boomzvpn.cloud:80?path=%2Fvless%2F&security=none&encryption=none&host=sg1.boomzvpn.cloud&type=ws#6T"
     },{
     "name": "Thailand 2 TRUE NOPRO VIP",
     "content": "vless://d8285d31-fbb0-45fe-93e1-680fe392ec66@true.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=the-1.boomzvpn.cloud&type=ws#TH-443-VPN-1-TRUE"
     },{
     "name": "Thailand 3 TRUE NOPRO VIP",
-    "content": "vless://ae360cc6-5498-4f72-8070-f827008e81ea@104.22.59.207:80?path=%2F&security=none&encryption=none&host=the-2.boomzvpn.cloud&type=ws#TH-443-VPN-2-TRUE"
+    "content": "vless://ae360cc6-5498-4f72-8070-f827008e81ea@true.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=the-2.boomzvpn.cloud&type=ws#TH-443-VPN-2-TRUE"
     },{
     "name": "Thailand 4 TRUE NOPRO VIP",
-    "content": "vless://5c2f8b3f-2c33-47b3-8f4a-55732bcfbae4@104.22.59.207:80?path=%2F&security=none&encryption=none&host=the-3.boomzvpn.cloud&type=ws#TH-443-VPN-3-TRUE"
+    "content": "vless://5c2f8b3f-2c33-47b3-8f4a-55732bcfbae4@true.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=the-3.boomzvpn.cloud&type=ws#TH-443-VPN-3-TRUE"
     },{
     "name": "Thailand 5 TRUE NOPRO GAMING",
-    "content": "vless://1ce58599-bd07-4057-e88e-12606b0c06d1@104.22.59.207:80?path=%2F&security=none&encryption=none&host=the-4.boomzvpn.cloud&type=ws#TH-443-VPN-4-TRUE"
+    "content": "vless://1ce58599-bd07-4057-e88e-12606b0c06d1@true.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=the-4.boomzvpn.cloud&type=ws#TH-443-VPN-4-TRUE"
     },{
     "name": "Thailand 6 TRUE NO PRO GAMING",
-    "content": "vless://2bbff60f-a567-4e5d-cb08-0f2ec80bf44e@104.22.59.207:80?path=%2F&security=none&encryption=none&host=the-5.boomzvpn.cloud&type=ws#TH-443-VPN-5-TRUE"
+    "content": "vless://2bbff60f-a567-4e5d-cb08-0f2ec80bf44e@true.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=the-5.boomzvpn.cloud&type=ws#TH-443-VPN-5-TRUE"
     },{
     "name": "Singapore 1 DTAC NOPRO VIP",
     "content": "vless://c1f3df0b-70fc-464a-9962-6e95532b58c3@bug.finfin.online:80?path=%2Fvless%2F&security=none&encryption=none&host=sg1.boomzvpn.cloud&type=ws#6D"
