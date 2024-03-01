@@ -1,8 +1,8 @@
 {
-    "version": 7.4,
+    "version": 7.5,
     "message": "
 _____________________________
-อัพเดทไฟล์ 7.4 แอป 443 VPN
+อัพเดทไฟล์ 7.5 แอป 443 VPN
 _____________________________
    🔮 รอง รับ ซิม 🔮
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
@@ -42,7 +42,7 @@ _____________________________
     "name": "Thailand 2 DTAC NOPRO VIP",
     "content": "vless://6b3c8430-c6e1-4861-92b9-ebba6eb02198@dtac.boomzvpn.cloud:80?path=%2F&security=none&encryption=none&host=a.boomzvpn.cloud&type=ws#BOOMVPN-443-DTAC"
     },{
-    "name": "Thailand 3 DTAC NOP upRO VIP",
+    "name": "Thailand 3 DTAC NOPRO VIP",
     "content": "vless://1b45e1af-e9d1-424b-be6a-dde6f6f85354@dtac.boomzvpn.cloud:80?path=%2Fvless%2F&security=none&encryption=none&host=th1-kguza.boomzvpn.cloud&type=ws#M"
     },{
     "name": "Thailand 4 DTAC NOPRO VIP",
